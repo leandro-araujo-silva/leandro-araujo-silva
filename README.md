@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3 e JavaScript.</strong>
+  :notebook: Linguagens: <strong>HTML5, CSS3 e JavaScript.</strong>
 </p>
 
 <p align="left">
