@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome é Leandro, <strong>futuro desenvolvedor de software</strong>!<br>
-  Desde o início de 2020, estudo programação para a web, focado, atualmente, no desenvolvimento front-end.
+  Desde o início de 2020, estudo programação para a web, focado, atualmente, no desenvolvimento <strong>front-end</strong>.
 </p>
 
 <p align="left">
