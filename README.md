@@ -10,6 +10,10 @@
 </p>
 
 <p align="left">
+ :department_store: Linguagem da faculdade: <strong>C.</strong>
+</p>
+
+<p align="left">
   💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
 </p>
 
