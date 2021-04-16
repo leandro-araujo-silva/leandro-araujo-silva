@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  :notebook: Linguagens de trabalho: <strong>HTML5, CSS3 e JavaScript.</strong>
+  :notebook: Linguagens em foco: <strong>HTML5, CSS3 e JavaScript.</strong>
 </p>
 
 <p align="left">
