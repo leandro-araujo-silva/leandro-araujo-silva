@@ -21,14 +21,6 @@
   💌 Caso queira realizar projetos comigo ou até mesmo me ajudar nos meus, não hesite em me enviar uma mensagem! ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](http://www.linkedin.com/in/leandro-ara%C3%BAjo-da-silva-1660631b9)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:leandroaraujo.dev.edu@gmail.com)
 
-  <a href="www.linkedin.com/in/leandro-araújo-da-silva-1660631b9" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-</p>  
