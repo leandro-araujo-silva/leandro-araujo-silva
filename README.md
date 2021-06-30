@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
- :department_store: Linguagem da faculdade: <strong>C.</strong>
+ :department_store: Linguagem da faculdade: <strong>C, C++</strong>
 </p>
 
 <p align="left">
