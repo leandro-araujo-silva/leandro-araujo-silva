@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Git e GitHub.</strong>
 </p>
 
 <p align="left">
