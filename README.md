@@ -25,6 +25,5 @@
   💌 Caso queira realizar projetos comigo ou até mesmo me ajudar nos meus, não hesite em me enviar uma mensagem! ⤵️
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](http://www.linkedin.com/in/leandro-ara%C3%BAjo-da-silva-1660631b9)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:leandroaraujo.dev.edu@gmail.com)
-
+<a href="http://www.linkedin.com/in/leandro-ara%C3%BAjo-da-silva-1660631b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:leandroaraujo.dev.edu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
