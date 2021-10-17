@@ -3,7 +3,7 @@
 <p align="left"> 
   Meu nome é Leandro, <strong>futuro desenvolvedor de software</strong>!<br>
   Desde o início de 2020, estudo programação para a web, focado, atualmente, no desenvolvimento <strong>front-end</strong>.<br>
-  Além disso, sou desenvolvedor voluntário do [Projeto Tatu](https://projetotatu.com.br/)
+  Além disso, sou desenvolvedor voluntário do <strong>Projeto Tatu</strong> (https://projetotatu.com.br/).
 </p>
 
 <p align="left">
