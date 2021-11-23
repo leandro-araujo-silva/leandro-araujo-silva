@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Git, GitHub, Vercel, Figma.</strong>
 </p>
 
 <p align="left">
