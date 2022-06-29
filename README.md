@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  :notebook: Linguagens em foco: <strong>HTML5, CSS3, JavaScript e jQuery.</strong>
+  :notebook: Linguagens em foco: <strong>HTML5, CSS3, JavaScript, jQuery, Typescript, React</strong>
 </p>
 
 <p align="left">
