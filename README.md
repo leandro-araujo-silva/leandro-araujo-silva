@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  "Meu nome é Leandro, entusiasta do desenvolvimento web e apaixonado pela ciência de dados. Engenheiro de Computação em formação na UFAL, trazendo inovação através de projetos sólidos tanto na área de desenvolvimento web quanto na ciência de dados. Experiência detalhista adquirida como recenseador no IBGE. Atualmente trilhando meu crescimento como trainee no Edge Academy, onde continuo a buscar excelência e aprendizado constante."
+  "Meu nome é Leandro, entusiasta do desenvolvimento web e apaixonado pela ciência de dados. Engenheiro de Computação em formação na UFAL. Atualmente trilhando meu crescimento como trainee no Edge Academy, onde continuo a buscar excelência e aprendizado constante."
 </p>
 
 <p align="left">
