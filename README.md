@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Meu nome é Leandro, <strong>futuro desenvolvedor de software</strong>!<br>
-  Desde o início de 2020, estudo programação para a web, focado, atualmente, no desenvolvimento <strong>front-end</strong>.<br>
-  Além disso, atuei como desenvolvedor voluntário no <strong>Projeto Tatu</strong> (https://projetotatu.com.br/).<br>
-  Ademais, fui estudante bolsista na <strong>Rocketseat.</strong>
+  "Meu nome é Leandro, entusiasta do desenvolvimento web e apaixonado pela ciência de dados. Engenheiro de Computação em formação na UFAL, trazendo inovação através de projetos sólidos tanto na área de desenvolvimento web quanto na ciência de dados. Experiência detalhista adquirida como recenseador no IBGE. Atualmente trilhando meu crescimento como trainee no Edge Academy, onde continuo a buscar excelência e aprendizado constante."
 </p>
 
 <p align="left">
